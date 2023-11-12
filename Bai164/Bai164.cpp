@@ -38,3 +38,4 @@ void DieuChinhBac(DATHUC&f)
 	for (int i = f.n; f.a[i] == 0; i--)
 		f.n--;
 }
+//not yet
